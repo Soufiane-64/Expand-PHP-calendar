@@ -1,0 +1,20 @@
+{
+    "name": "hamma/kalender",
+    "autoload": {
+        "psr-4": {
+            "Hamma\\Kalender\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Soufiane Hammagi",
+            "email": "103323691+Soufiane-64@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Calendar\\": "src/Calendar"
+        }
+    },
+    "require": {}
+}
